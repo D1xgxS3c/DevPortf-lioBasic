@@ -13,7 +13,7 @@ export const Footer = (): JSX.Element => {
       <Container>
         <Flex>
           <UserImage
-            src={`src/public/static/img/logo/user.png`}
+            src={`https://avatars.githubusercontent.com/u/191882185?v=4`}
             alt={userData.nameUser}
             title={userData.nameUser}
             width={"70px"}

@@ -38,7 +38,7 @@ export const Home = (): JSX.Element => {
           <HeaderContent>
             <Flex>
               <UserImage
-                src={`src/public/static/img/logo/user.png`}
+                src={`https://avatars.githubusercontent.com/u/191882185?v=4`}
                 alt={userData.nameUser}
                 title={userData.nameUser}
                 width={"48px"}
